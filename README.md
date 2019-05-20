@@ -1,4 +1,6 @@
-1. Build based on https://github.com/php-di/demo
+#Spotify tool
+
+Build based on https://github.com/php-di/demo
 
 Tool for auto-changing proxy on linux spotify client
 
