@@ -1,5 +1,5 @@
 {
-    "name": "php-di/demo",
+    "name": "spotify-linux-client-tool",
     "license": "MIT",
     "type": "project",
     "autoload": {
